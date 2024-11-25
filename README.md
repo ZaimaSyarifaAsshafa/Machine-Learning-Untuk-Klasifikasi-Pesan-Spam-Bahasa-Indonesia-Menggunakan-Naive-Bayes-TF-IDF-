@@ -61,6 +61,8 @@ Dataset yang digunakan mencakup pesan teks pendek dengan label spam atau ham. Da
 | **Macro Avg**    | 0.91         | 0.93       | 0.92         | 286         |
 | **Weighted Avg** | 0.93         | 0.92       | 0.92         | 286         |
 
+
+![ConfusionMatrix](images/ConfusionMatrix.png)
 ---
 
 ## **Pengembangan Selanjutnya**
