@@ -1,4 +1,4 @@
-# Machine Learning UNTUK KLASIFIKASI PESAN SPAM BAHASA INDONESIA - Menggunakan Algoritma Naïve Bayes (TF-IDF)
+# Machine Learning Untuk Klasifikasi Pesan Spam Bahasa Indonesia Menggunakan Algoritma Naïve Bayes (TF-IDF)
 
 ## Deskripsi Project
 Proyek ini bertujuan untuk mengembangkan model klasifikasi teks yang dapat membedakan pesan normal/spam/promo menggunakan teknik pemrosesan teks (NLP) dan algoritma Machine Learning. Solusi ini dirancang untuk membantu pengguna menyaring pesan yang tidak relevan dan meningkatkan efisiensi komunikasi.
