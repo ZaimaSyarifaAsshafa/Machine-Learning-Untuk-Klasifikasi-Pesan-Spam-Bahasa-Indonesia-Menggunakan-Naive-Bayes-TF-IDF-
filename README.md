@@ -51,7 +51,6 @@ Dataset yang digunakan mencakup pesan teks pendek dengan label spam atau ham. Da
 ## **Hasil**
 - **Model Terbaik**: Naive Bayes dengan representasi TF-IDF.
 - **Evaluasi Model**:
-## **Evaluasi Model**
 | **Class**       | **Precision** | **Recall** | **F1-Score** | **Support** |
 |------------------|--------------|------------|--------------|-------------|
 | 0                | **0.97**     | 0.91       | 0.94         | 132         |
